@@ -19,6 +19,8 @@ public class PruebaGitHub {
         System.out.println("Hello Git");
         System.out.println("Hello from GitHub");
         System.out.println("Javi was here");
+        
+        System.out.println("We're gonna get rich with this app!");
     }
     
 }
