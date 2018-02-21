@@ -16,11 +16,8 @@ public class PruebaGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello Git");
-        System.out.println("Hello from GitHub");
-        System.out.println("Javi was here");
-        
-        System.out.println("We're gonna get rich with this app!");
+        System.out.println("Hello Gitteros");
+
     }
     
 }
